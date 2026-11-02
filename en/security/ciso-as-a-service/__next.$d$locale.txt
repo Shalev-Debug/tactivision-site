@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[77698,["/_next/static/chunks/17r-yalq2o0y~.js"],"default"]
+3:I[42864,["/_next/static/chunks/0whnu9t5k-ij7.js","/_next/static/chunks/01as9r5n5k.xo.js"],"default"]
+4:I[46907,["/_next/static/chunks/0whnu9t5k-ij7.js","/_next/static/chunks/01as9r5n5k.xo.js"],"default"]
+:HL["/_next/static/chunks/0uh~08q7gthzt.css","style"]
+:HL["/_next/static/chunks/0-8otgjc.ylif.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0uh~08q7gthzt.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0-8otgjc.ylif.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/17r-yalq2o0y~.js","async":true}]],["$","html",null,{"lang":"en","dir":"ltr","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col font-sans","children":["$","$L2",null,{"locale":"en","messages":{"home":{"title":"Tactivision","greeting":"Hello world","tagline":"Managed IT, cybersecurity, and telecom"},"switcher":{"label":"Language"}},"timeZone":"Asia/Jerusalem","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JzPfSDMavhVqbSziJknWk"}

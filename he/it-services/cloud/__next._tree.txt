@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0uh~08q7gthzt.css","style"]
+:HL["/_next/static/chunks/0-8otgjc.ylif.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"locale","param":{"type":"d","key":"he","siblings":null},"prefetchHints":16,"slots":{"children":{"name":"(marketing)","param":null,"prefetchHints":0,"slots":{"children":{"name":"it-services","param":null,"prefetchHints":0,"slots":{"children":{"name":"subservice","param":{"type":"d","key":"cloud","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"JzPfSDMavhVqbSziJknWk"}
